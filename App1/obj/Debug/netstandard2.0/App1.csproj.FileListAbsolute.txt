@@ -1,0 +1,41 @@
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\PLOSKIKH\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\PLOSKIKH\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\PLOSKIKH\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\PLOSKIKH\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+C:\PLOSKIKH\App1\App1\obj\Debug\netstandard2.0\StyleSheet1.css.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\bin\Debug\netstandard2.0\App1.deps.json
+E:\Work\Projekt\RMP YP\yp_6.2\App1\bin\Debug\netstandard2.0\App1.dll
+E:\Work\Projekt\RMP YP\yp_6.2\App1\bin\Debug\netstandard2.0\ref\App1.dll
+E:\Work\Projekt\RMP YP\yp_6.2\App1\bin\Debug\netstandard2.0\App1.pdb
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\StyleSheet1.css.g.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.sourcelink.json
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.dll
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\refint\App1.dll
+E:\Work\Projekt\RMP YP\yp_6.2\App1\obj\Debug\netstandard2.0\App1.pdb
